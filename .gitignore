@@ -1,0 +1,7 @@
+FFMymFacialMosaic.xcodeproj/xcuserdata/
+FFMymFacialMosaic.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+FFMymFacialMosaic.xcodeproj/project.xcworkspace/xcuserdata/

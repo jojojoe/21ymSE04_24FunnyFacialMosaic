@@ -1,0 +1,107 @@
+
+[
+    {
+        "thumbName" : "mask_shape_1",
+        "bigName" : "mask_shape_1_max",
+        "isPro": false
+    },
+    {
+        "thumbName" : "mask_shape_2",
+        "bigName" : "mask_shape_2_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_3",
+        "bigName" : "mask_shape_3_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_4",
+        "bigName" : "mask_shape_4_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_5",
+        "bigName" : "mask_shape_5_max",
+        "isPro": true
+    }
+    ,
+    {
+        "thumbName" : "mask_shape_6",
+        "bigName" : "mask_shape_6_max",
+        "isPro": true
+    }
+    ,
+    {
+        "thumbName" : "mask_shape_7",
+        "bigName" : "mask_shape_7_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_8",
+        "bigName" : "mask_shape_8_max",
+        "isPro": true
+    }
+    ,
+    {
+        "thumbName" : "mask_shape_9",
+        "bigName" : "mask_shape_9_max",
+        "isPro": true
+    }
+    ,
+    {
+        "thumbName" : "mask_shape_10",
+        "bigName" : "mask_shape_10_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_11",
+        "bigName" : "mask_shape_11_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_12",
+        "bigName" : "mask_shape_12_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_13",
+        "bigName" : "mask_shape_13_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_14",
+        "bigName" : "mask_shape_14_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_15",
+        "bigName" : "mask_shape_15_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_11",
+        "bigName" : "mask_shape_11_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_12",
+        "bigName" : "mask_shape_12_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_13",
+        "bigName" : "mask_shape_13_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_14",
+        "bigName" : "mask_shape_14_max",
+        "isPro": true
+    },
+    {
+        "thumbName" : "mask_shape_15",
+        "bigName" : "mask_shape_15_max",
+        "isPro": true
+    }
+]
